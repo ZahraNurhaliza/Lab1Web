@@ -3,7 +3,7 @@
 ## Langkah-langkah Praktikum
 Persiapan membuka VSCode dan Browser.
 Kemudian buat file baru dengan nama lab1_tag_dasar.html dan tambahkan tag dasar dokumen HTML.
-![image](https://github.com/ZahraNurhaliza/Praktikum-4/blob/main/screenshot/ss.png)
+![image](https://github.com/ZahraNurhaliza/Lab1Web/blob/main/screenshot/ss.png)
 
 ![image](https://github.com/ZahraNurhaliza/Lab1Web/blob/main/screenshot/ss.1.png)
 
