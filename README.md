@@ -145,19 +145,20 @@ Tambahkan hyperlink pada dokumen sebelum heading 1 seperti berikut.
 error ketika terjadi kesalahan penulisan tag?
 • Akan terjadi eror, sebab tag yang dimasukkan tidak sesuai
 
-2. Apa perbedaan dari tag <p> dengan tag <br>, berikan penjelasannya!
-• Tag paragraph <p> dimulai dan diakhiri dengan tag penutup </p> sebagai akhir dari sebuah paragraph dan akan memasuki baris baru. Sedangkan pada tag <br>, untuk berpindah ke baris selanjutnya
+2. Apa perbedaan dari tag p dengan tag br, berikan penjelasannya!
+• Tag paragraph p dimulai dan diakhiri dengan tag penutup /p sebagai akhir dari sebuah paragraph dan akan memasuki baris baru.
+Sedangkan pada tag br, untuk berpindah ke baris selanjutnya
 
-3. Apa perbedaan atribut title dan alt pada tag <img>, berikan penjelasannya!
+4. Apa perbedaan atribut title dan alt pada tag img, berikan penjelasannya!
 • Teks dalam atribut title biasanya lebih panjang daripada deskripsi singkat dalam atribut alt.
 alt="Deskripsi singkat gambar" title="Keterangan tambahan tentang gambar"
 
-4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar
+5. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar
 proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!
 • width (Ukuran lebar gambar), height (ukuran tinggi gambar)
 Untuk mengatur ukuran gambar dalam HTML, kita dapat menggunakan atribut width dan height. Namun, sebaiknya mengisi salah satu atribut (biasanya width) dan membiarkan atribut yang lainnya kosong. Ini akan memungkinkan tampilan gambar tetap seimbang
 
-5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top,
+6. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top,
 _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
 • Jika nilai atribut di ganti akan ada perubahan di cara membuka tautan dan pemilihan nilai atribut ini memengaruhi cara tautan dibuka dan cara interaksi antara halaman web saat ini dengan halaman yang ditautkan,pastikan untuk memilih nilai yang sesuai dengan kebutuhan desain.
 
